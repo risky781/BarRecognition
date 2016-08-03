@@ -1,3 +1,5 @@
+实现了条形码、二维码的识别和解析
+
 # BarRecognition
 
 this is a program to recognize the barcode and two-dimension code, and in the development process, we use the ZXing code on the github.
